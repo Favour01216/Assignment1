@@ -1,0 +1,70 @@
+/*Favour Adesiyan 8922364*/
+body {
+  font: 12px/1.5 verdana, Arial, Helvetica, sans-serif;
+  padding: 2em;
+}
+
+h1,
+h2 {
+  font-size: 2rem;
+  font-variant: small-caps;
+  color: #fb0505;
+}
+
+main {
+  float: left;
+  width: 65vw;
+  height: 60vh;
+  padding: 20px;
+  margin-bottom: 60px;
+}
+
+aside {
+  float: right;
+  width: 25vw;
+  height: 60vh;
+}
+
+.mainimg {
+  border: 2px solid #333;
+  width: 200px;
+  height: auto;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  padding: 10px;
+
+  border-radius: 10px;
+}
+
+q {
+  font-family: cursive;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.structural {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid rgb(112, 35, 35);
+  border-radius: 10px;
+}
+
+/* List */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #007acc;
+}
+
+ul li a:hover {
+  color: #ff0000;
+}
