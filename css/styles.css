@@ -14,7 +14,7 @@ h2 {
 main {
   float: left;
   width: 65vw;
-  height: 60vh;
+  height: 170vh;
   padding: 20px;
   margin-bottom: 60px;
 }
@@ -27,7 +27,7 @@ aside {
 
 .mainimg {
   border: 2px solid #333;
-  width: 200px;
+  width: 300px;
   height: auto;
 }
 
@@ -35,12 +35,8 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 100vw;
-  padding: 10px;
-
-  border-radius: 10px;
+  width: 85vw;
 }
-
 q {
   font-family: cursive;
   font-style: italic;
